@@ -14,8 +14,6 @@ faq:
   - q: "How often is this guide updated?"
     a: "We regularly update our guides with the latest information and best practices. Bookmark this page for the most current time recommendations."
 ---
-
-<div style="margin: 2rem 0; background: #1e293b; border-radius: 12px; padding: 1rem; border: 1px solid #334155;"><div style="font-weight: 700; font-size: 0.85rem; color: #94a3b8; margin-bottom: 0.6rem;">Unix Timestamp Milestones</div><div style="display: grid; grid-template-columns: auto 1fr; gap: 0.3rem; font-size: 0.75rem; font-family: monospace;"><div style="color: #4ade80; padding: 0.2rem 0.4rem;">0</div><div style="color: #94a3b8; padding: 0.2rem;">1970-01-01 (epoch)</div><div style="color: #4ade80; padding: 0.2rem 0.4rem;">1000000000</div><div style="color: #94a3b8; padding: 0.2rem;">2001-09-09</div><div style="color: #4ade80; padding: 0.2rem 0.4rem;">1700000000</div><div style="color: #94a3b8; padding: 0.2rem;">2023-11-14</div><div style="color: #f87171; padding: 0.2rem 0.4rem;">2147483647</div><div style="color: #f87171; padding: 0.2rem;">2038-01-19 ⚠️ Y2038</div></div></div>
 Unix timestamps count the number of seconds since January 1, 1970 (the Unix Epoch). They are the universal language of time in computing.
 
 ## Why Unix Timestamps

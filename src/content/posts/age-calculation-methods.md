@@ -14,8 +14,6 @@ faq:
   - q: "How often is this guide updated?"
     a: "We regularly update our guides with the latest information and best practices. Bookmark this page for the most current time recommendations."
 ---
-
-<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.5rem;"><div style="padding: 0.7rem; background: #dbeafe; border-radius: 10px; text-align: center; border: 1px solid #93c5fd;"><div style="font-weight: 700; color: #1e40af; font-size: 0.8rem;">Western</div><div style="font-size: 0.65rem; color: #6b7280;">Born = 0</div><div style="font-size: 0.65rem; color: #6b7280;">+1 on birthday</div></div><div style="padding: 0.7rem; background: #fef3c7; border-radius: 10px; text-align: center; border: 1px solid #fde68a;"><div style="font-weight: 700; color: #92400e; font-size: 0.8rem;">East Asian</div><div style="font-size: 0.65rem; color: #6b7280;">Born = 1</div><div style="font-size: 0.65rem; color: #6b7280;">+1 on New Year</div></div><div style="padding: 0.7rem; background: #fce7f3; border-radius: 10px; text-align: center; border: 1px solid #f9a8d4;"><div style="font-weight: 700; color: #be185d; font-size: 0.8rem;">Korean (old)</div><div style="font-size: 0.65rem; color: #6b7280;">Born = 1</div><div style="font-size: 0.65rem; color: #6b7280;">+1 each Jan 1</div></div></div>
 How old are you? The answer depends on where you live and which cultural convention you follow.
 
 ## Western Age Counting

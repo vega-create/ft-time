@@ -14,8 +14,6 @@ faq:
   - q: "How often is this guide updated?"
     a: "We regularly update our guides with the latest information and best practices. Bookmark this page for the most current time recommendations."
 ---
-
-<div style="margin: 2rem 0; background: #fef2f2; border-radius: 12px; padding: 1rem; border: 1px solid #fecaca;"><div style="font-weight: 700; font-size: 0.85rem; color: #991b1b; margin-bottom: 0.6rem;">One Pomodoro Cycle</div><div style="display: flex; align-items: center; gap: 0.3rem; flex-wrap: wrap; font-size: 0.75rem;"><div style="background: #dc2626; color: white; padding: 0.4rem 0.6rem; border-radius: 6px; font-weight: 600;">25 min work</div><div style="color: #6b7280;">→</div><div style="background: #22c55e; color: white; padding: 0.4rem 0.6rem; border-radius: 6px; font-weight: 600;">5 min break</div><div style="color: #6b7280;">× 4 then →</div><div style="background: #3b82f6; color: white; padding: 0.4rem 0.6rem; border-radius: 6px; font-weight: 600;">15-30 min long break</div></div></div>
 The Pomodoro Technique is a time management method developed by Francesco Cirillo in the late 1980s. It uses timed intervals to break work into focused sessions.
 
 ## How It Works

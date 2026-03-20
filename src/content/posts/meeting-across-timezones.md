@@ -14,8 +14,6 @@ faq:
   - q: "How often is this guide updated?"
     a: "We regularly update our guides with the latest information and best practices. Bookmark this page for the most current time recommendations."
 ---
-
-<div style="margin: 2rem 0; background: #f8fafc; border-radius: 12px; padding: 1rem; border: 1px solid #e2e8f0;"><div style="font-weight: 700; font-size: 0.85rem; color: #334155; margin-bottom: 0.6rem;">Meeting Overlap Windows</div><div style="display: grid; grid-template-columns: auto 1fr; gap: 0.3rem; font-size: 0.75rem;"><div style="font-weight: 600; padding: 0.3rem;">US ↔ Europe</div><div style="background: #dcfce7; padding: 0.3rem; border-radius: 4px;">9am-12pm EST (3-6pm CET)</div><div style="font-weight: 600; padding: 0.3rem;">US ↔ Asia</div><div style="background: #fef3c7; padding: 0.3rem; border-radius: 4px;">6-9am EST (7-10pm CST)</div><div style="font-weight: 600; padding: 0.3rem;">Europe ↔ Asia</div><div style="background: #dbeafe; padding: 0.3rem; border-radius: 4px;">8-11am CET (3-6pm CST)</div></div></div>
 Scheduling meetings across time zones is one of the biggest challenges of remote work. With team members spread globally, finding a time that works for everyone requires strategy.
 
 ## The Golden Hours
